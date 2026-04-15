@@ -1,0 +1,54 @@
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.exe.config
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.exe
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.pdb
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\Guna.UI.dll
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Form1.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Properties.Resources.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Splash.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.CopyComplete
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.exe
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.pdb
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Form2.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Satıcı.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.ProductForm.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.SatısForm.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Bills.resources
+C:\Users\dell\source\repos\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Catagory.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.exe.config
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.exe
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.pdb
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\Guna.UI.dll
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.ProductForm.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Bills.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Catagory.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Properties.Resources.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Splash.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.CopyComplete
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.exe
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.pdb
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.SellingForm.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.LoginForm.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.exe.config
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.exe
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\bin\Debug\SuperMarket_Projesi.pdb
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.LoginForm.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.ProductForm.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.SellingForm.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Bills.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Catagory.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Properties.Resources.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.Splash.resources
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.csproj.CopyComplete
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.exe
+C:\Users\dell\Downloads\SuperMarket_Projesi (2)\SuperMarket_Projesi\SuperMarket_Projesi\SuperMarket_Projesi\obj\Debug\SuperMarket_Projesi.pdb
